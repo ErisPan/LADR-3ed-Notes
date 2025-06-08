@@ -1,2 +1,7 @@
-# LADR-3ed-Notes
-Personal LaTeX notes for the book 线性代数应该这样学(第三版, 中译). Include both Chinese &amp; English version.
+# 线性代数应该这样学(第三版, 中译)LaTeX笔记
+本笔记为Bilibili用户**阿潘Eris**上传的, 基于教材《线性代数应该这样学(第三版, 中译)》的笔记, 配合视频教程**线性代数应该这样学（Linear Algebra Done Right）自制教程&习题选讲**使用.
+
+本项目将于2025年7月开始上传.
+
+## 使用方式
+下载项目后, 依据各章节或习题, 打开.pdf文件阅读即可; 或者, 若您需要更改文件, 打开相应的.tex文件进行修改后, 使用LaTeX重编译即可.
